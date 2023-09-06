@@ -27,4 +27,5 @@ int main()
     else {
         printf("Enter correct options");
     }
+    return 0 ; 
 }
